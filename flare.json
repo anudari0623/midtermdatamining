@@ -1,0 +1,54 @@
+{
+ "name": "flare",
+ "children": [
+  {
+   "name": "analytics",
+   "children": [
+   
+  
+    {
+     "name": "Micheal Kors",
+     "children": [
+      {"name": "MKT5023", "size": 395},
+      {"name": "MKT5004", "size": 350},
+      {"name": "MKT4005", "size": 295},
+      {"name": "MK3782", "size": 495},
+	  {"name": "MK3786", "size": 195},
+	  {"name": "MK3724", "size": 250},
+	  {"name": "MK3729", "size": 250},
+	  {"name": "MK3650", "size": 225},
+	  {"name": "MK6176", "size": 295}
+
+     ]
+    },
+    {
+     "name": "DKNY",
+     "children": [
+      {"name": "NYT6100", "size": 155},
+      {"name": "NY2643", "size": 155},
+      {"name": "NY2651", "size": 175},
+      {"name": "NY2640", "size": 115},
+      {"name": "NY2664", "size": 135}
+     ]
+    },
+    {
+     "name": "Burberry",
+     "children": [
+      {"name": "BU10104", "size": 795},
+	  {"name": "BU10201", "size": 795},
+	  {"name": "BU10001", "size": 795},
+	   {"name": "BU10002", "size": 695},
+	   {"name": "BU10003", "size": 795}
+		
+		
+     ]
+    }
+	
+   ]
+   }
+   ]
+   }	
+	
+	
+	
+	
